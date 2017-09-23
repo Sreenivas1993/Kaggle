@@ -1,0 +1,8 @@
+1. dataframe.info() gives details of column their type and all stuff
+2. dataframe.describe() give details of dataset loaded as data frame
+3.dataframe.column.value_count() give count
+
+
+
+Missing values
+1. to count the number of missing values of each column in data frame use ' dataframename.isnull().sum()
